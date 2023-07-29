@@ -1,1 +1,1 @@
-# FakeNews_Detection
+# Fak eNews Detection
